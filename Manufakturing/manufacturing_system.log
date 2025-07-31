@@ -1,0 +1,802 @@
+Jul 11, 2025 2:24:37 AM com.mycompany.manufacturing_system.App initializeLogging
+INFO: Application logging initialized
+Jul 11, 2025 2:24:37 AM com.mycompany.manufacturing_system.App main
+INFO: Starting Manufacturing Management System v2.0...
+Jul 11, 2025 2:24:37 AM com.mycompany.manufacturing_system.App validateJavaVersion
+INFO: Java version: 24
+Jul 11, 2025 2:24:37 AM com.mycompany.manufacturing_system.App setSystemProperties
+INFO: System properties configured for optimal performance
+Jul 11, 2025 2:24:37 AM com.mycompany.manufacturing_system.App checkRequiredLibraries
+INFO: JavaFX runtime detected
+Jul 11, 2025 2:24:37 AM com.mycompany.manufacturing_system.App checkRequiredLibraries
+INFO: MySQL JDBC driver detected
+Jul 11, 2025 2:24:37 AM com.mycompany.manufacturing_system.App main
+INFO: Launching JavaFX application...
+Jul 11, 2025 2:24:37 AM com.mycompany.manufacturing_system.App init
+INFO: Initializing Manufacturing Management System v2.0...
+Jul 11, 2025 2:24:37 AM com.mycompany.manufacturing_system.App initializeDatabaseWithRetry
+INFO: Database connection attempt 1 of 3
+Jul 11, 2025 2:24:38 AM com.mycompany.manufacturing_system.App initializeDatabaseWithRetry
+INFO: Database connection successful on attempt 1
+Jul 11, 2025 2:24:38 AM com.mycompany.manufacturing_system.App init
+INFO: Database connection initialized successfully
+Jul 11, 2025 2:24:38 AM com.mycompany.manufacturing_system.App start
+INFO: Starting Manufacturing Management System application...
+Jul 11, 2025 2:24:38 AM com.mycompany.manufacturing_system.App loadApplicationIcon
+WARNING: Application icon not found, using default system icon
+Jul 11, 2025 2:24:38 AM com.mycompany.manufacturing_system.App loadStylesheet
+INFO: No custom stylesheet found, using default styling
+Jul 11, 2025 2:24:38 AM com.mycompany.manufacturing_system.App start
+INFO: Manufacturing Management System started successfully
+Jul 11, 2025 2:24:38 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: === System Information ===
+Jul 11, 2025 2:24:38 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Application: Manufacturing Management System v2.0
+Jul 11, 2025 2:24:38 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Java Version: 24
+Jul 11, 2025 2:24:38 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: JavaFX Version: 21.0.1
+Jul 11, 2025 2:24:38 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Operating System: Windows 11 10.0
+Jul 11, 2025 2:24:38 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Architecture: amd64
+Jul 11, 2025 2:24:38 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: User: Luthfay
+Jul 11, 2025 2:24:38 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Working Directory: C:\Manufakturing
+Jul 11, 2025 2:24:38 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Available Processors: 16
+Jul 11, 2025 2:24:38 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Max Memory: 3916 MB
+Jul 11, 2025 2:24:38 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Free Memory: 203 MB
+Jul 11, 2025 2:24:38 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Database Connection: OK
+Jul 11, 2025 2:24:38 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: === End System Information ===
+Jul 11, 2025 2:27:23 AM com.mycompany.manufacturing_system.App handleApplicationShutdown
+INFO: Application shutdown requested
+Jul 11, 2025 2:27:24 AM com.mycompany.manufacturing_system.App handleApplicationShutdown
+INFO: User confirmed application exit
+Jul 11, 2025 2:27:24 AM com.mycompany.manufacturing_system.App performApplicationShutdown
+INFO: Performing application shutdown...
+Jul 11, 2025 2:27:24 AM com.mycompany.manufacturing_system.App performShutdownCleanup
+INFO: Performing shutdown cleanup...
+Jul 11, 2025 2:27:24 AM com.mycompany.manufacturing_system.App performShutdownCleanup
+WARNING: Error during shutdown cleanup: Not supported yet.
+Jul 11, 2025 2:27:24 AM com.mycompany.manufacturing_system.App performApplicationShutdown
+INFO: Application shutdown completed successfully
+Jul 11, 2025 2:47:21 AM com.mycompany.manufacturing_system.App initializeLogging
+INFO: Application logging initialized
+Jul 11, 2025 2:47:21 AM com.mycompany.manufacturing_system.App main
+INFO: Starting Manufacturing Management System v2.0...
+Jul 11, 2025 2:47:21 AM com.mycompany.manufacturing_system.App validateJavaVersion
+INFO: Java version: 24
+Jul 11, 2025 2:47:21 AM com.mycompany.manufacturing_system.App setSystemProperties
+INFO: System properties configured for optimal performance
+Jul 11, 2025 2:47:21 AM com.mycompany.manufacturing_system.App checkRequiredLibraries
+INFO: JavaFX runtime detected
+Jul 11, 2025 2:47:21 AM com.mycompany.manufacturing_system.App checkRequiredLibraries
+INFO: MySQL JDBC driver detected
+Jul 11, 2025 2:47:21 AM com.mycompany.manufacturing_system.App main
+INFO: Launching JavaFX application...
+Jul 11, 2025 2:47:21 AM com.mycompany.manufacturing_system.App init
+INFO: Initializing Manufacturing Management System v2.0...
+Jul 11, 2025 2:47:21 AM com.mycompany.manufacturing_system.App initializeDatabaseWithRetry
+INFO: Database connection attempt 1 of 3
+Jul 11, 2025 2:47:22 AM com.mycompany.manufacturing_system.App initializeDatabaseWithRetry
+INFO: Database connection successful on attempt 1
+Jul 11, 2025 2:47:22 AM com.mycompany.manufacturing_system.App init
+INFO: Database connection initialized successfully
+Jul 11, 2025 2:47:22 AM com.mycompany.manufacturing_system.App start
+INFO: Starting Manufacturing Management System application...
+Jul 11, 2025 2:47:22 AM com.mycompany.manufacturing_system.App loadApplicationIcon
+WARNING: Application icon not found, using default system icon
+Jul 11, 2025 2:47:22 AM com.mycompany.manufacturing_system.App loadStylesheet
+INFO: No custom stylesheet found, using default styling
+Jul 11, 2025 2:47:22 AM com.mycompany.manufacturing_system.App start
+INFO: Manufacturing Management System started successfully
+Jul 11, 2025 2:47:22 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: === System Information ===
+Jul 11, 2025 2:47:22 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Application: Manufacturing Management System v2.0
+Jul 11, 2025 2:47:22 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Java Version: 24
+Jul 11, 2025 2:47:22 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: JavaFX Version: 21.0.1
+Jul 11, 2025 2:47:22 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Operating System: Windows 11 10.0
+Jul 11, 2025 2:47:22 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Architecture: amd64
+Jul 11, 2025 2:47:22 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: User: Luthfay
+Jul 11, 2025 2:47:22 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Working Directory: C:\Manufakturing
+Jul 11, 2025 2:47:22 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Available Processors: 16
+Jul 11, 2025 2:47:22 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Max Memory: 3916 MB
+Jul 11, 2025 2:47:22 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Free Memory: 204 MB
+Jul 11, 2025 2:47:22 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Database Connection: OK
+Jul 11, 2025 2:47:22 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: === End System Information ===
+Jul 11, 2025 3:20:46 AM com.mycompany.manufacturing_system.App handleApplicationShutdown
+INFO: Application shutdown requested
+Jul 11, 2025 3:20:47 AM com.mycompany.manufacturing_system.App handleApplicationShutdown
+INFO: User confirmed application exit
+Jul 11, 2025 3:20:47 AM com.mycompany.manufacturing_system.App performApplicationShutdown
+INFO: Performing application shutdown...
+Jul 11, 2025 3:20:47 AM com.mycompany.manufacturing_system.App performShutdownCleanup
+INFO: Performing shutdown cleanup...
+Jul 11, 2025 3:20:47 AM com.mycompany.manufacturing_system.App performShutdownCleanup
+WARNING: Error during shutdown cleanup: Not supported yet.
+Jul 11, 2025 3:20:47 AM com.mycompany.manufacturing_system.App performApplicationShutdown
+INFO: Application shutdown completed successfully
+Jul 11, 2025 3:22:04 AM com.mycompany.manufacturing_system.App initializeLogging
+INFO: Application logging initialized
+Jul 11, 2025 3:22:04 AM com.mycompany.manufacturing_system.App main
+INFO: Starting Manufacturing Management System v2.0...
+Jul 11, 2025 3:22:04 AM com.mycompany.manufacturing_system.App validateJavaVersion
+INFO: Java version: 24
+Jul 11, 2025 3:22:04 AM com.mycompany.manufacturing_system.App setSystemProperties
+INFO: System properties configured for optimal performance
+Jul 11, 2025 3:22:04 AM com.mycompany.manufacturing_system.App checkRequiredLibraries
+INFO: JavaFX runtime detected
+Jul 11, 2025 3:22:04 AM com.mycompany.manufacturing_system.App checkRequiredLibraries
+INFO: MySQL JDBC driver detected
+Jul 11, 2025 3:22:04 AM com.mycompany.manufacturing_system.App main
+INFO: Launching JavaFX application...
+Jul 11, 2025 3:22:04 AM com.mycompany.manufacturing_system.App init
+INFO: Initializing Manufacturing Management System v2.0...
+Jul 11, 2025 3:22:04 AM com.mycompany.manufacturing_system.App initializeDatabaseWithRetry
+INFO: Database connection attempt 1 of 3
+Jul 11, 2025 3:23:29 AM com.mycompany.manufacturing_system.App initializeDatabaseWithRetry
+INFO: Database connection successful on attempt 1
+Jul 11, 2025 3:23:29 AM com.mycompany.manufacturing_system.App init
+INFO: Database connection initialized successfully
+Jul 11, 2025 3:23:29 AM com.mycompany.manufacturing_system.App start
+INFO: Starting Manufacturing Management System application...
+Jul 11, 2025 3:23:29 AM com.mycompany.manufacturing_system.App loadApplicationIcon
+WARNING: Application icon not found, using default system icon
+Jul 11, 2025 3:23:29 AM com.mycompany.manufacturing_system.App showLoginView
+SEVERE: Failed to create login view: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Jul 11, 2025 3:23:29 AM com.mycompany.manufacturing_system.App start
+SEVERE: Failed to start application: Failed to initialize login interface
+Jul 11, 2025 3:23:29 AM com.mycompany.manufacturing_system.App showStartupError
+SEVERE: Startup error occurred: Failed to initialize login interface
+Jul 11, 2025 3:34:22 AM com.mycompany.manufacturing_system.App performApplicationShutdown
+INFO: Performing application shutdown...
+Jul 11, 2025 3:34:22 AM com.mycompany.manufacturing_system.App performShutdownCleanup
+INFO: Performing shutdown cleanup...
+Jul 11, 2025 3:34:22 AM com.mycompany.manufacturing_system.App performShutdownCleanup
+INFO: Database connections closed
+Jul 11, 2025 3:34:22 AM com.mycompany.manufacturing_system.App performShutdownCleanup
+INFO: User session cleared
+Jul 11, 2025 3:34:22 AM com.mycompany.manufacturing_system.App performShutdownCleanup
+INFO: Shutdown cleanup completed
+Jul 11, 2025 3:34:22 AM com.mycompany.manufacturing_system.App performApplicationShutdown
+INFO: Application shutdown completed successfully
+Jul 11, 2025 3:38:31 AM com.mycompany.manufacturing_system.App initializeLogging
+INFO: Application logging initialized
+Jul 11, 2025 3:38:31 AM com.mycompany.manufacturing_system.App main
+INFO: Starting Manufacturing Management System v2.0...
+Jul 11, 2025 3:38:31 AM com.mycompany.manufacturing_system.App validateJavaVersion
+INFO: Java version: 24
+Jul 11, 2025 3:38:31 AM com.mycompany.manufacturing_system.App setSystemProperties
+INFO: System properties configured for optimal performance
+Jul 11, 2025 3:38:31 AM com.mycompany.manufacturing_system.App checkRequiredLibraries
+INFO: JavaFX runtime detected
+Jul 11, 2025 3:38:31 AM com.mycompany.manufacturing_system.App checkRequiredLibraries
+INFO: MySQL JDBC driver detected
+Jul 11, 2025 3:38:31 AM com.mycompany.manufacturing_system.App main
+INFO: Launching JavaFX application...
+Jul 11, 2025 3:38:31 AM com.mycompany.manufacturing_system.App init
+INFO: Initializing Manufacturing Management System v2.0...
+Jul 11, 2025 3:38:31 AM com.mycompany.manufacturing_system.App initializeDatabaseWithRetry
+INFO: Database connection attempt 1 of 3
+Jul 11, 2025 3:38:32 AM com.mycompany.manufacturing_system.App initializeDatabaseWithRetry
+INFO: Database connection successful on attempt 1
+Jul 11, 2025 3:38:32 AM com.mycompany.manufacturing_system.App init
+INFO: Database connection initialized successfully
+Jul 11, 2025 3:38:32 AM com.mycompany.manufacturing_system.App start
+INFO: Starting Manufacturing Management System application...
+Jul 11, 2025 3:38:32 AM com.mycompany.manufacturing_system.App loadApplicationIcon
+WARNING: Application icon not found, using default system icon
+Jul 11, 2025 3:38:32 AM com.mycompany.manufacturing_system.App loadStylesheet
+INFO: No custom stylesheet found, using default styling
+Jul 11, 2025 3:38:32 AM com.mycompany.manufacturing_system.App start
+INFO: Manufacturing Management System started successfully
+Jul 11, 2025 3:38:32 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: === System Information ===
+Jul 11, 2025 3:38:32 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Application: Manufacturing Management System v2.0
+Jul 11, 2025 3:38:32 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Java Version: 24
+Jul 11, 2025 3:38:32 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: JavaFX Version: 21.0.1
+Jul 11, 2025 3:38:32 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Operating System: Windows 11 10.0
+Jul 11, 2025 3:38:32 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Architecture: amd64
+Jul 11, 2025 3:38:32 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: User: Luthfay
+Jul 11, 2025 3:38:32 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Working Directory: C:\Manufakturing
+Jul 11, 2025 3:38:32 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Available Processors: 16
+Jul 11, 2025 3:38:32 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Max Memory: 3916 MB
+Jul 11, 2025 3:38:32 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Free Memory: 206 MB
+Jul 11, 2025 3:38:32 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Database Connection: OK
+Jul 11, 2025 3:38:32 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: === End System Information ===
+Jul 11, 2025 3:51:09 AM com.mycompany.manufacturing_system.App initializeLogging
+INFO: Application logging initialized
+Jul 11, 2025 3:51:09 AM com.mycompany.manufacturing_system.App main
+INFO: Starting Manufacturing Management System v2.0...
+Jul 11, 2025 3:51:09 AM com.mycompany.manufacturing_system.App validateJavaVersion
+INFO: Java version: 24
+Jul 11, 2025 3:51:09 AM com.mycompany.manufacturing_system.App setSystemProperties
+INFO: System properties configured for optimal performance
+Jul 11, 2025 3:51:09 AM com.mycompany.manufacturing_system.App checkRequiredLibraries
+INFO: JavaFX runtime detected
+Jul 11, 2025 3:51:09 AM com.mycompany.manufacturing_system.App checkRequiredLibraries
+INFO: MySQL JDBC driver detected
+Jul 11, 2025 3:51:09 AM com.mycompany.manufacturing_system.App main
+INFO: Launching JavaFX application...
+Jul 11, 2025 3:51:09 AM com.mycompany.manufacturing_system.App init
+INFO: Initializing Manufacturing Management System v2.0...
+Jul 11, 2025 3:51:09 AM com.mycompany.manufacturing_system.App initializeDatabaseWithRetry
+INFO: Database connection attempt 1 of 3
+Jul 11, 2025 3:51:10 AM com.mycompany.manufacturing_system.App initializeDatabaseWithRetry
+INFO: Database connection successful on attempt 1
+Jul 11, 2025 3:51:10 AM com.mycompany.manufacturing_system.App init
+INFO: Database connection initialized successfully
+Jul 11, 2025 3:51:10 AM com.mycompany.manufacturing_system.App start
+INFO: Starting Manufacturing Management System application...
+Jul 11, 2025 3:51:10 AM com.mycompany.manufacturing_system.App loadApplicationIcon
+WARNING: Application icon not found, using default system icon
+Jul 11, 2025 3:51:10 AM com.mycompany.manufacturing_system.App loadStylesheet
+INFO: No custom stylesheet found, using default styling
+Jul 11, 2025 3:51:10 AM com.mycompany.manufacturing_system.App start
+INFO: Manufacturing Management System started successfully
+Jul 11, 2025 3:51:10 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: === System Information ===
+Jul 11, 2025 3:51:10 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Application: Manufacturing Management System v2.0
+Jul 11, 2025 3:51:10 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Java Version: 24
+Jul 11, 2025 3:51:10 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: JavaFX Version: 21.0.1
+Jul 11, 2025 3:51:10 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Operating System: Windows 11 10.0
+Jul 11, 2025 3:51:10 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Architecture: amd64
+Jul 11, 2025 3:51:10 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: User: Luthfay
+Jul 11, 2025 3:51:10 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Working Directory: C:\Manufakturing
+Jul 11, 2025 3:51:10 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Available Processors: 16
+Jul 11, 2025 3:51:10 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Max Memory: 3916 MB
+Jul 11, 2025 3:51:10 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Free Memory: 204 MB
+Jul 11, 2025 3:51:10 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Database Connection: OK
+Jul 11, 2025 3:51:10 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: === End System Information ===
+Jul 11, 2025 3:52:00 AM com.mycompany.manufacturing_system.App handleApplicationShutdown
+INFO: Application shutdown requested
+Jul 11, 2025 3:52:03 AM com.mycompany.manufacturing_system.App handleApplicationShutdown
+INFO: User confirmed application exit
+Jul 11, 2025 3:52:03 AM com.mycompany.manufacturing_system.App performApplicationShutdown
+INFO: Performing application shutdown...
+Jul 11, 2025 3:52:03 AM com.mycompany.manufacturing_system.App performShutdownCleanup
+INFO: Performing shutdown cleanup...
+Jul 11, 2025 3:52:03 AM com.mycompany.manufacturing_system.App performShutdownCleanup
+INFO: Database connections closed
+Jul 11, 2025 3:52:03 AM com.mycompany.manufacturing_system.App performShutdownCleanup
+INFO: User session cleared
+Jul 11, 2025 3:52:03 AM com.mycompany.manufacturing_system.App performShutdownCleanup
+INFO: Shutdown cleanup completed
+Jul 11, 2025 3:52:03 AM com.mycompany.manufacturing_system.App performApplicationShutdown
+INFO: Application shutdown completed successfully
+Jul 11, 2025 3:52:32 AM com.mycompany.manufacturing_system.App initializeLogging
+INFO: Application logging initialized
+Jul 11, 2025 3:52:32 AM com.mycompany.manufacturing_system.App main
+INFO: Starting Manufacturing Management System v2.0...
+Jul 11, 2025 3:52:32 AM com.mycompany.manufacturing_system.App validateJavaVersion
+INFO: Java version: 24
+Jul 11, 2025 3:52:32 AM com.mycompany.manufacturing_system.App setSystemProperties
+INFO: System properties configured for optimal performance
+Jul 11, 2025 3:52:32 AM com.mycompany.manufacturing_system.App checkRequiredLibraries
+INFO: JavaFX runtime detected
+Jul 11, 2025 3:52:32 AM com.mycompany.manufacturing_system.App checkRequiredLibraries
+INFO: MySQL JDBC driver detected
+Jul 11, 2025 3:52:32 AM com.mycompany.manufacturing_system.App main
+INFO: Launching JavaFX application...
+Jul 11, 2025 3:52:32 AM com.mycompany.manufacturing_system.App init
+INFO: Initializing Manufacturing Management System v2.0...
+Jul 11, 2025 3:52:32 AM com.mycompany.manufacturing_system.App initializeDatabaseWithRetry
+INFO: Database connection attempt 1 of 3
+Jul 11, 2025 3:52:32 AM com.mycompany.manufacturing_system.App initializeDatabaseWithRetry
+INFO: Database connection successful on attempt 1
+Jul 11, 2025 3:52:32 AM com.mycompany.manufacturing_system.App init
+INFO: Database connection initialized successfully
+Jul 11, 2025 3:52:33 AM com.mycompany.manufacturing_system.App start
+INFO: Starting Manufacturing Management System application...
+Jul 11, 2025 3:52:33 AM com.mycompany.manufacturing_system.App loadApplicationIcon
+WARNING: Application icon not found, using default system icon
+Jul 11, 2025 3:52:33 AM com.mycompany.manufacturing_system.App loadStylesheet
+INFO: No custom stylesheet found, using default styling
+Jul 11, 2025 3:52:33 AM com.mycompany.manufacturing_system.App start
+INFO: Manufacturing Management System started successfully
+Jul 11, 2025 3:52:33 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: === System Information ===
+Jul 11, 2025 3:52:33 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Application: Manufacturing Management System v2.0
+Jul 11, 2025 3:52:33 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Java Version: 24
+Jul 11, 2025 3:52:33 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: JavaFX Version: 21.0.1
+Jul 11, 2025 3:52:33 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Operating System: Windows 11 10.0
+Jul 11, 2025 3:52:33 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Architecture: amd64
+Jul 11, 2025 3:52:33 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: User: Luthfay
+Jul 11, 2025 3:52:33 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Working Directory: C:\Manufakturing
+Jul 11, 2025 3:52:33 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Available Processors: 16
+Jul 11, 2025 3:52:33 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Max Memory: 3916 MB
+Jul 11, 2025 3:52:33 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Free Memory: 203 MB
+Jul 11, 2025 3:52:33 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Database Connection: OK
+Jul 11, 2025 3:52:33 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: === End System Information ===
+Jul 11, 2025 3:52:35 AM com.mycompany.manufacturing_system.App handleApplicationShutdown
+INFO: Application shutdown requested
+Jul 11, 2025 3:52:36 AM com.mycompany.manufacturing_system.App handleApplicationShutdown
+INFO: User confirmed application exit
+Jul 11, 2025 3:52:36 AM com.mycompany.manufacturing_system.App performApplicationShutdown
+INFO: Performing application shutdown...
+Jul 11, 2025 3:52:36 AM com.mycompany.manufacturing_system.App performShutdownCleanup
+INFO: Performing shutdown cleanup...
+Jul 11, 2025 3:52:36 AM com.mycompany.manufacturing_system.App performShutdownCleanup
+INFO: Database connections closed
+Jul 11, 2025 3:52:36 AM com.mycompany.manufacturing_system.App performShutdownCleanup
+INFO: User session cleared
+Jul 11, 2025 3:52:36 AM com.mycompany.manufacturing_system.App performShutdownCleanup
+INFO: Shutdown cleanup completed
+Jul 11, 2025 3:52:36 AM com.mycompany.manufacturing_system.App performApplicationShutdown
+INFO: Application shutdown completed successfully
+Jul 11, 2025 3:56:17 AM com.mycompany.manufacturing_system.App initializeLogging
+INFO: Application logging initialized
+Jul 11, 2025 3:56:17 AM com.mycompany.manufacturing_system.App main
+INFO: Starting Manufacturing Management System v2.0...
+Jul 11, 2025 3:56:17 AM com.mycompany.manufacturing_system.App validateJavaVersion
+INFO: Java version: 24
+Jul 11, 2025 3:56:17 AM com.mycompany.manufacturing_system.App setSystemProperties
+INFO: System properties configured for optimal performance
+Jul 11, 2025 3:56:17 AM com.mycompany.manufacturing_system.App checkRequiredLibraries
+INFO: JavaFX runtime detected
+Jul 11, 2025 3:56:17 AM com.mycompany.manufacturing_system.App checkRequiredLibraries
+INFO: MySQL JDBC driver detected
+Jul 11, 2025 3:56:17 AM com.mycompany.manufacturing_system.App main
+INFO: Launching JavaFX application...
+Jul 11, 2025 3:56:17 AM com.mycompany.manufacturing_system.App init
+INFO: Initializing Manufacturing Management System v2.0...
+Jul 11, 2025 3:56:17 AM com.mycompany.manufacturing_system.App initializeDatabaseWithRetry
+INFO: Database connection attempt 1 of 3
+Jul 11, 2025 3:56:17 AM com.mycompany.manufacturing_system.App initializeDatabaseWithRetry
+INFO: Database connection successful on attempt 1
+Jul 11, 2025 3:56:17 AM com.mycompany.manufacturing_system.App init
+INFO: Database connection initialized successfully
+Jul 11, 2025 3:56:17 AM com.mycompany.manufacturing_system.App start
+INFO: Starting Manufacturing Management System application...
+Jul 11, 2025 3:56:17 AM com.mycompany.manufacturing_system.App loadApplicationIcon
+WARNING: Application icon not found, using default system icon
+Jul 11, 2025 3:56:17 AM com.mycompany.manufacturing_system.App loadStylesheet
+INFO: No custom stylesheet found, using default styling
+Jul 11, 2025 3:56:18 AM com.mycompany.manufacturing_system.App start
+INFO: Manufacturing Management System started successfully
+Jul 11, 2025 3:56:18 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: === System Information ===
+Jul 11, 2025 3:56:18 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Application: Manufacturing Management System v2.0
+Jul 11, 2025 3:56:18 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Java Version: 24
+Jul 11, 2025 3:56:18 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: JavaFX Version: 21.0.1
+Jul 11, 2025 3:56:18 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Operating System: Windows 11 10.0
+Jul 11, 2025 3:56:18 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Architecture: amd64
+Jul 11, 2025 3:56:18 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: User: Luthfay
+Jul 11, 2025 3:56:18 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Working Directory: C:\Manufakturing
+Jul 11, 2025 3:56:18 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Available Processors: 16
+Jul 11, 2025 3:56:18 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Max Memory: 3916 MB
+Jul 11, 2025 3:56:18 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Free Memory: 203 MB
+Jul 11, 2025 3:56:18 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Database Connection: OK
+Jul 11, 2025 3:56:18 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: === End System Information ===
+Jul 17, 2025 8:31:04 AM com.mycompany.manufacturing_system.App initializeLogging
+INFO: Application logging initialized
+Jul 17, 2025 8:31:04 AM com.mycompany.manufacturing_system.App main
+INFO: Starting Manufacturing Management System v2.0...
+Jul 17, 2025 8:31:04 AM com.mycompany.manufacturing_system.App validateJavaVersion
+INFO: Java version: 23.0.2
+Jul 17, 2025 8:31:04 AM com.mycompany.manufacturing_system.App setSystemProperties
+INFO: System properties configured for optimal performance
+Jul 17, 2025 8:31:04 AM com.mycompany.manufacturing_system.App checkRequiredLibraries
+INFO: JavaFX runtime detected
+Jul 17, 2025 8:31:04 AM com.mycompany.manufacturing_system.App checkRequiredLibraries
+INFO: MySQL JDBC driver detected
+Jul 17, 2025 8:31:04 AM com.mycompany.manufacturing_system.App main
+INFO: Launching JavaFX application...
+Jul 17, 2025 8:31:04 AM com.mycompany.manufacturing_system.App init
+INFO: Initializing Manufacturing Management System v2.0...
+Jul 17, 2025 8:31:04 AM com.mycompany.manufacturing_system.App initializeDatabaseWithRetry
+INFO: Database connection attempt 1 of 3
+Jul 17, 2025 8:31:04 AM com.mycompany.manufacturing_system.App initializeDatabaseWithRetry
+INFO: Database connection attempt 2 of 3
+Jul 17, 2025 8:31:04 AM com.mycompany.manufacturing_system.App initializeDatabaseWithRetry
+INFO: Database connection attempt 3 of 3
+Jul 17, 2025 8:31:04 AM com.mycompany.manufacturing_system.App initializeDatabaseWithRetry
+SEVERE: Failed to establish database connection after 3 attempts
+Jul 17, 2025 8:31:04 AM com.mycompany.manufacturing_system.App init
+SEVERE: Failed to initialize database connection: Failed to initialize database connection after multiple attempts
+Jul 17, 2025 8:31:04 AM com.mycompany.manufacturing_system.App main
+SEVERE: Fatal error starting application: Exception in Application init method
+Jul 22, 2025 6:48:50 PM com.mycompany.manufacturing_system.App initializeLogging
+INFO: Application logging initialized
+Jul 22, 2025 6:48:50 PM com.mycompany.manufacturing_system.App main
+INFO: Starting Manufacturing Management System v2.0...
+Jul 22, 2025 6:48:50 PM com.mycompany.manufacturing_system.App validateJavaVersion
+INFO: Java version: 23.0.2
+Jul 22, 2025 6:48:50 PM com.mycompany.manufacturing_system.App setSystemProperties
+INFO: System properties configured for optimal performance
+Jul 22, 2025 6:48:50 PM com.mycompany.manufacturing_system.App checkRequiredLibraries
+INFO: JavaFX runtime detected
+Jul 22, 2025 6:48:50 PM com.mycompany.manufacturing_system.App checkRequiredLibraries
+INFO: MySQL JDBC driver detected
+Jul 22, 2025 6:48:50 PM com.mycompany.manufacturing_system.App main
+INFO: Launching JavaFX application...
+Jul 22, 2025 6:48:50 PM com.mycompany.manufacturing_system.App init
+INFO: Initializing Manufacturing Management System v2.0...
+Jul 22, 2025 6:48:50 PM com.mycompany.manufacturing_system.App initializeDatabaseWithRetry
+INFO: Database connection attempt 1 of 3
+Jul 22, 2025 6:48:50 PM com.mycompany.manufacturing_system.App initializeDatabaseWithRetry
+INFO: Database connection successful on attempt 1
+Jul 22, 2025 6:48:50 PM com.mycompany.manufacturing_system.App init
+INFO: Database connection initialized successfully
+Jul 22, 2025 6:48:50 PM com.mycompany.manufacturing_system.App start
+INFO: Starting Manufacturing Management System application...
+Jul 22, 2025 6:48:50 PM com.mycompany.manufacturing_system.App loadApplicationIcon
+WARNING: Application icon not found, using default system icon
+Jul 22, 2025 6:48:50 PM com.mycompany.manufacturing_system.App loadStylesheet
+INFO: No custom stylesheet found, using default styling
+Jul 22, 2025 6:48:51 PM com.mycompany.manufacturing_system.App start
+INFO: Manufacturing Management System started successfully
+Jul 22, 2025 6:48:51 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: === System Information ===
+Jul 22, 2025 6:48:51 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Application: Manufacturing Management System v2.0
+Jul 22, 2025 6:48:51 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Java Version: 23.0.2
+Jul 22, 2025 6:48:51 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: JavaFX Version: 21.0.1
+Jul 22, 2025 6:48:51 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Operating System: Windows 11 10.0
+Jul 22, 2025 6:48:51 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Architecture: amd64
+Jul 22, 2025 6:48:51 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: User: Aditia Nurwansyah
+Jul 22, 2025 6:48:51 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Working Directory: C:\Users\Aditia Nurwansyah\Downloads\Manufakturing\Manufakturing
+Jul 22, 2025 6:48:51 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Available Processors: 12
+Jul 22, 2025 6:48:51 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Max Memory: 4014 MB
+Jul 22, 2025 6:48:51 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Free Memory: 216 MB
+Jul 22, 2025 6:48:51 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Database Connection: OK
+Jul 22, 2025 6:48:51 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: === End System Information ===
+Jul 22, 2025 6:52:44 PM com.mycompany.manufacturing_system.App handleApplicationShutdown
+INFO: Application shutdown requested
+Jul 22, 2025 6:52:45 PM com.mycompany.manufacturing_system.App handleApplicationShutdown
+INFO: User confirmed application exit
+Jul 22, 2025 6:52:45 PM com.mycompany.manufacturing_system.App performApplicationShutdown
+INFO: Performing application shutdown...
+Jul 22, 2025 6:52:45 PM com.mycompany.manufacturing_system.App performShutdownCleanup
+INFO: Performing shutdown cleanup...
+Jul 22, 2025 6:52:45 PM com.mycompany.manufacturing_system.App performShutdownCleanup
+INFO: Database connections closed
+Jul 22, 2025 6:52:45 PM com.mycompany.manufacturing_system.App performShutdownCleanup
+INFO: User session cleared
+Jul 22, 2025 6:52:45 PM com.mycompany.manufacturing_system.App performShutdownCleanup
+INFO: Shutdown cleanup completed
+Jul 22, 2025 6:52:45 PM com.mycompany.manufacturing_system.App performApplicationShutdown
+INFO: Application shutdown completed successfully
+Jul 22, 2025 6:54:20 PM com.mycompany.manufacturing_system.App initializeLogging
+INFO: Application logging initialized
+Jul 22, 2025 6:54:20 PM com.mycompany.manufacturing_system.App main
+INFO: Starting Manufacturing Management System v2.0...
+Jul 22, 2025 6:54:20 PM com.mycompany.manufacturing_system.App validateJavaVersion
+INFO: Java version: 23.0.2
+Jul 22, 2025 6:54:20 PM com.mycompany.manufacturing_system.App setSystemProperties
+INFO: System properties configured for optimal performance
+Jul 22, 2025 6:54:20 PM com.mycompany.manufacturing_system.App checkRequiredLibraries
+INFO: JavaFX runtime detected
+Jul 22, 2025 6:54:20 PM com.mycompany.manufacturing_system.App checkRequiredLibraries
+INFO: MySQL JDBC driver detected
+Jul 22, 2025 6:54:20 PM com.mycompany.manufacturing_system.App main
+INFO: Launching JavaFX application...
+Jul 22, 2025 6:54:20 PM com.mycompany.manufacturing_system.App init
+INFO: Initializing Manufacturing Management System v2.0...
+Jul 22, 2025 6:54:20 PM com.mycompany.manufacturing_system.App initializeDatabaseWithRetry
+INFO: Database connection attempt 1 of 3
+Jul 22, 2025 6:54:20 PM com.mycompany.manufacturing_system.App initializeDatabaseWithRetry
+INFO: Database connection successful on attempt 1
+Jul 22, 2025 6:54:20 PM com.mycompany.manufacturing_system.App init
+INFO: Database connection initialized successfully
+Jul 22, 2025 6:54:20 PM com.mycompany.manufacturing_system.App start
+INFO: Starting Manufacturing Management System application...
+Jul 22, 2025 6:54:20 PM com.mycompany.manufacturing_system.App loadApplicationIcon
+WARNING: Application icon not found, using default system icon
+Jul 22, 2025 6:54:20 PM com.mycompany.manufacturing_system.App loadStylesheet
+INFO: No custom stylesheet found, using default styling
+Jul 22, 2025 6:54:21 PM com.mycompany.manufacturing_system.App start
+INFO: Manufacturing Management System started successfully
+Jul 22, 2025 6:54:21 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: === System Information ===
+Jul 22, 2025 6:54:21 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Application: Manufacturing Management System v2.0
+Jul 22, 2025 6:54:21 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Java Version: 23.0.2
+Jul 22, 2025 6:54:21 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: JavaFX Version: 21.0.1
+Jul 22, 2025 6:54:21 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Operating System: Windows 11 10.0
+Jul 22, 2025 6:54:21 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Architecture: amd64
+Jul 22, 2025 6:54:21 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: User: Aditia Nurwansyah
+Jul 22, 2025 6:54:21 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Working Directory: C:\Users\Aditia Nurwansyah\Downloads\Manufakturing\Manufakturing
+Jul 22, 2025 6:54:21 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Available Processors: 12
+Jul 22, 2025 6:54:21 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Max Memory: 4014 MB
+Jul 22, 2025 6:54:21 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Free Memory: 216 MB
+Jul 22, 2025 6:54:21 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Database Connection: OK
+Jul 22, 2025 6:54:21 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: === End System Information ===
+Jul 22, 2025 6:56:08 PM com.mycompany.manufacturing_system.App handleApplicationShutdown
+INFO: Application shutdown requested
+Jul 22, 2025 6:56:12 PM com.mycompany.manufacturing_system.App handleApplicationShutdown
+INFO: Application exit cancelled by user
+Jul 22, 2025 9:17:09 PM com.mycompany.manufacturing_system.App handleApplicationShutdown
+INFO: Application shutdown requested
+Jul 22, 2025 9:17:11 PM com.mycompany.manufacturing_system.App handleApplicationShutdown
+INFO: User confirmed application exit
+Jul 22, 2025 9:17:11 PM com.mycompany.manufacturing_system.App performApplicationShutdown
+INFO: Performing application shutdown...
+Jul 22, 2025 9:17:11 PM com.mycompany.manufacturing_system.App performShutdownCleanup
+INFO: Performing shutdown cleanup...
+Jul 22, 2025 9:17:11 PM com.mycompany.manufacturing_system.App performShutdownCleanup
+INFO: Database connections closed
+Jul 22, 2025 9:17:11 PM com.mycompany.manufacturing_system.App performShutdownCleanup
+INFO: User session cleared
+Jul 22, 2025 9:17:11 PM com.mycompany.manufacturing_system.App performShutdownCleanup
+INFO: Shutdown cleanup completed
+Jul 22, 2025 9:17:11 PM com.mycompany.manufacturing_system.App performApplicationShutdown
+INFO: Application shutdown completed successfully
+Jul 23, 2025 6:29:04 AM com.mycompany.manufacturing_system.App initializeLogging
+INFO: Application logging initialized
+Jul 23, 2025 6:29:04 AM com.mycompany.manufacturing_system.App main
+INFO: Starting Manufacturing Management System v2.0...
+Jul 23, 2025 6:29:04 AM com.mycompany.manufacturing_system.App validateJavaVersion
+INFO: Java version: 23.0.2
+Jul 23, 2025 6:29:04 AM com.mycompany.manufacturing_system.App setSystemProperties
+INFO: System properties configured for optimal performance
+Jul 23, 2025 6:29:04 AM com.mycompany.manufacturing_system.App checkRequiredLibraries
+INFO: JavaFX runtime detected
+Jul 23, 2025 6:29:04 AM com.mycompany.manufacturing_system.App checkRequiredLibraries
+INFO: MySQL JDBC driver detected
+Jul 23, 2025 6:29:04 AM com.mycompany.manufacturing_system.App main
+INFO: Launching JavaFX application...
+Jul 23, 2025 6:29:04 AM com.mycompany.manufacturing_system.App init
+INFO: Initializing Manufacturing Management System v2.0...
+Jul 23, 2025 6:29:04 AM com.mycompany.manufacturing_system.App initializeDatabaseWithRetry
+INFO: Database connection attempt 1 of 3
+Jul 23, 2025 6:29:04 AM com.mycompany.manufacturing_system.App initializeDatabaseWithRetry
+INFO: Database connection successful on attempt 1
+Jul 23, 2025 6:29:04 AM com.mycompany.manufacturing_system.App init
+INFO: Database connection initialized successfully
+Jul 23, 2025 6:29:04 AM com.mycompany.manufacturing_system.App start
+INFO: Starting Manufacturing Management System application...
+Jul 23, 2025 6:29:04 AM com.mycompany.manufacturing_system.App loadApplicationIcon
+WARNING: Application icon not found, using default system icon
+Jul 23, 2025 6:29:05 AM com.mycompany.manufacturing_system.App loadStylesheet
+INFO: No custom stylesheet found, using default styling
+Jul 23, 2025 6:29:05 AM com.mycompany.manufacturing_system.App start
+INFO: Manufacturing Management System started successfully
+Jul 23, 2025 6:29:05 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: === System Information ===
+Jul 23, 2025 6:29:05 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Application: Manufacturing Management System v2.0
+Jul 23, 2025 6:29:05 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Java Version: 23.0.2
+Jul 23, 2025 6:29:05 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: JavaFX Version: 21.0.1
+Jul 23, 2025 6:29:05 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Operating System: Windows 11 10.0
+Jul 23, 2025 6:29:05 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Architecture: amd64
+Jul 23, 2025 6:29:05 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: User: Aditia Nurwansyah
+Jul 23, 2025 6:29:05 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Working Directory: C:\Users\Aditia Nurwansyah\Downloads\Manufakturing\Manufakturing
+Jul 23, 2025 6:29:05 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Available Processors: 12
+Jul 23, 2025 6:29:05 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Max Memory: 4014 MB
+Jul 23, 2025 6:29:05 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Free Memory: 217 MB
+Jul 23, 2025 6:29:05 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Database Connection: OK
+Jul 23, 2025 6:29:05 AM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: === End System Information ===
+Jul 23, 2025 9:37:35 AM com.mycompany.manufacturing_system.App handleApplicationShutdown
+INFO: Application shutdown requested
+Jul 23, 2025 9:37:36 AM com.mycompany.manufacturing_system.App handleApplicationShutdown
+INFO: User confirmed application exit
+Jul 23, 2025 9:37:36 AM com.mycompany.manufacturing_system.App performApplicationShutdown
+INFO: Performing application shutdown...
+Jul 23, 2025 9:37:36 AM com.mycompany.manufacturing_system.App performShutdownCleanup
+INFO: Performing shutdown cleanup...
+Jul 23, 2025 9:37:36 AM com.mycompany.manufacturing_system.App performShutdownCleanup
+INFO: Database connections closed
+Jul 23, 2025 9:37:36 AM com.mycompany.manufacturing_system.App performShutdownCleanup
+INFO: User session cleared
+Jul 23, 2025 9:37:36 AM com.mycompany.manufacturing_system.App performShutdownCleanup
+INFO: Shutdown cleanup completed
+Jul 23, 2025 9:37:36 AM com.mycompany.manufacturing_system.App performApplicationShutdown
+INFO: Application shutdown completed successfully
+Jul 23, 2025 12:37:29 PM com.mycompany.manufacturing_system.App initializeLogging
+INFO: Application logging initialized
+Jul 23, 2025 12:37:29 PM com.mycompany.manufacturing_system.App main
+INFO: Starting Manufacturing Management System v2.0...
+Jul 23, 2025 12:37:29 PM com.mycompany.manufacturing_system.App validateJavaVersion
+INFO: Java version: 23.0.2
+Jul 23, 2025 12:37:29 PM com.mycompany.manufacturing_system.App setSystemProperties
+INFO: System properties configured for optimal performance
+Jul 23, 2025 12:37:29 PM com.mycompany.manufacturing_system.App checkRequiredLibraries
+INFO: JavaFX runtime detected
+Jul 23, 2025 12:37:29 PM com.mycompany.manufacturing_system.App checkRequiredLibraries
+INFO: MySQL JDBC driver detected
+Jul 23, 2025 12:37:29 PM com.mycompany.manufacturing_system.App main
+INFO: Launching JavaFX application...
+Jul 23, 2025 12:37:29 PM com.mycompany.manufacturing_system.App init
+INFO: Initializing Manufacturing Management System v2.0...
+Jul 23, 2025 12:37:29 PM com.mycompany.manufacturing_system.App initializeDatabaseWithRetry
+INFO: Database connection attempt 1 of 3
+Jul 23, 2025 12:37:29 PM com.mycompany.manufacturing_system.App initializeDatabaseWithRetry
+INFO: Database connection successful on attempt 1
+Jul 23, 2025 12:37:29 PM com.mycompany.manufacturing_system.App init
+INFO: Database connection initialized successfully
+Jul 23, 2025 12:37:29 PM com.mycompany.manufacturing_system.App start
+INFO: Starting Manufacturing Management System application...
+Jul 23, 2025 12:37:29 PM com.mycompany.manufacturing_system.App loadApplicationIcon
+WARNING: Application icon not found, using default system icon
+Jul 23, 2025 12:37:29 PM com.mycompany.manufacturing_system.App loadStylesheet
+INFO: No custom stylesheet found, using default styling
+Jul 23, 2025 12:37:30 PM com.mycompany.manufacturing_system.App start
+INFO: Manufacturing Management System started successfully
+Jul 23, 2025 12:37:30 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: === System Information ===
+Jul 23, 2025 12:37:30 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Application: Manufacturing Management System v2.0
+Jul 23, 2025 12:37:30 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Java Version: 23.0.2
+Jul 23, 2025 12:37:30 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: JavaFX Version: 21.0.1
+Jul 23, 2025 12:37:30 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Operating System: Windows 11 10.0
+Jul 23, 2025 12:37:30 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Architecture: amd64
+Jul 23, 2025 12:37:30 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: User: Aditia Nurwansyah
+Jul 23, 2025 12:37:30 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Working Directory: C:\Users\Aditia Nurwansyah\Downloads\Manufakturing\Manufakturing
+Jul 23, 2025 12:37:30 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Available Processors: 12
+Jul 23, 2025 12:37:30 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Max Memory: 4014 MB
+Jul 23, 2025 12:37:30 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Free Memory: 216 MB
+Jul 23, 2025 12:37:30 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Database Connection: OK
+Jul 23, 2025 12:37:30 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: === End System Information ===
+Jul 23, 2025 12:43:05 PM com.mycompany.manufacturing_system.App initializeLogging
+INFO: Application logging initialized
+Jul 23, 2025 12:43:05 PM com.mycompany.manufacturing_system.App main
+INFO: Starting Manufacturing Management System v2.0...
+Jul 23, 2025 12:43:05 PM com.mycompany.manufacturing_system.App validateJavaVersion
+INFO: Java version: 23.0.2
+Jul 23, 2025 12:43:05 PM com.mycompany.manufacturing_system.App setSystemProperties
+INFO: System properties configured for optimal performance
+Jul 23, 2025 12:43:05 PM com.mycompany.manufacturing_system.App checkRequiredLibraries
+INFO: JavaFX runtime detected
+Jul 23, 2025 12:43:05 PM com.mycompany.manufacturing_system.App checkRequiredLibraries
+INFO: MySQL JDBC driver detected
+Jul 23, 2025 12:43:05 PM com.mycompany.manufacturing_system.App main
+INFO: Launching JavaFX application...
+Jul 23, 2025 12:43:05 PM com.mycompany.manufacturing_system.App init
+INFO: Initializing Manufacturing Management System v2.0...
+Jul 23, 2025 12:43:05 PM com.mycompany.manufacturing_system.App initializeDatabaseWithRetry
+INFO: Database connection attempt 1 of 3
+Jul 23, 2025 12:43:05 PM com.mycompany.manufacturing_system.App initializeDatabaseWithRetry
+INFO: Database connection successful on attempt 1
+Jul 23, 2025 12:43:05 PM com.mycompany.manufacturing_system.App init
+INFO: Database connection initialized successfully
+Jul 23, 2025 12:43:05 PM com.mycompany.manufacturing_system.App start
+INFO: Starting Manufacturing Management System application...
+Jul 23, 2025 12:43:05 PM com.mycompany.manufacturing_system.App loadApplicationIcon
+WARNING: Application icon not found, using default system icon
+Jul 23, 2025 12:43:06 PM com.mycompany.manufacturing_system.App loadStylesheet
+INFO: No custom stylesheet found, using default styling
+Jul 23, 2025 12:43:06 PM com.mycompany.manufacturing_system.App start
+INFO: Manufacturing Management System started successfully
+Jul 23, 2025 12:43:06 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: === System Information ===
+Jul 23, 2025 12:43:06 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Application: Manufacturing Management System v2.0
+Jul 23, 2025 12:43:06 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Java Version: 23.0.2
+Jul 23, 2025 12:43:06 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: JavaFX Version: 21.0.1
+Jul 23, 2025 12:43:06 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Operating System: Windows 11 10.0
+Jul 23, 2025 12:43:06 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Architecture: amd64
+Jul 23, 2025 12:43:06 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: User: Aditia Nurwansyah
+Jul 23, 2025 12:43:06 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Working Directory: C:\Users\Aditia Nurwansyah\Downloads\Manufakturing\Manufakturing
+Jul 23, 2025 12:43:06 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Available Processors: 12
+Jul 23, 2025 12:43:06 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Max Memory: 4014 MB
+Jul 23, 2025 12:43:06 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Free Memory: 217 MB
+Jul 23, 2025 12:43:06 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: Database Connection: OK
+Jul 23, 2025 12:43:06 PM com.mycompany.manufacturing_system.App logSystemInfo
+INFO: === End System Information ===
+Jul 23, 2025 12:44:55 PM com.mycompany.manufacturing_system.App handleApplicationShutdown
+INFO: Application shutdown requested
+Jul 23, 2025 12:44:57 PM com.mycompany.manufacturing_system.App handleApplicationShutdown
+INFO: Application exit cancelled by user
