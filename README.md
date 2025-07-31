@@ -7,7 +7,7 @@
 ## Kelompok 5
 <ul>
   <li>Nama:  Aditia Nurwansyah</li>
-  <li>NIM : 23552011329</li>
+  <p>NIM : 23552011329</p>
 </ul>
 
 <ul>
