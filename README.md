@@ -12,12 +12,12 @@
 
 <ul>
   <li>Nama: Luthfi Fathillah</li>
-  <li>NIM : 23552011209</li>
+  <p>NIM : 23552011209</p>
 </ul>
 
 <ul>
   <li>Nama : Rajza Muhammad Yasyfa Fajri Sidiq</li>
-  <li>NIM  : 23552011039</li>
+  <p>NIM  : 23552011039</p>
 </ul>
 
 ## Judul Studi Kasus
